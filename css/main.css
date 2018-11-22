@@ -1,0 +1,15 @@
+.oddClass{
+    color:red;
+}
+.evenClass{
+    color:green;
+}
+#h1{
+    color:pink;
+}
+.test{
+    font-size: medium;
+    background: bisque;
+    font-family: arial;
+    display: block;
+}
